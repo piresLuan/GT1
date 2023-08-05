@@ -4,11 +4,12 @@ programa
 	funcao inicio()
 	{
 		cadeia brasileiro
-		real temperaturaKelvin
+		real temperaturaFarren
 		real temperaturaCelcius
 			escreva(" didgite seu nome : ")
 			leia (brasileiro)
-			escreva (" temperatura F : ")
+			escreva (" temperatura
+ F : ")
 			leia (temperaturaFarren)
 		temperaturaCelcius= (temperaturaFarren -32)/1.8
 		escreva ( "oi" +brasileiro+ " a temperatura em celcius é  " +temperaturaCelcius+ ".")	
